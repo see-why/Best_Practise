@@ -70,6 +70,10 @@ button:hover {
   align-items: baseline;
 }
 
+.todo-list-ul-li-input {
+  width: 80%;
+}
+
 .style-div:focus-within + img {
   content: url('../images/thrash.svg');
 }
@@ -83,6 +87,10 @@ button:hover {
 
 .todo-list-ul-li-box:checked {
   background: #66f;
+}
+
+.style-div {
+  width: 90%;
 }
 
 .refresh-img {
